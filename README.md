@@ -243,7 +243,3 @@ This application is designed for educational purposes in:
 - Groovy scripting integration
 - GUI programming with Swing
 - Data processing and analysis
-
----
-
-**Happy Economic Modeling! 📈💼**
